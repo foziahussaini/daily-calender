@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Daily Calendar & Task Manager
+
+A responsive **Next.js** Daily Calendar and Todo List application with task management, filtering, and three calendar integrations. Built with React Hooks and `localStorage` for persistent data. 
+
+## Features
+
+- **Task & Schedule Management:** Create, edit, complete, and organize daily tasks and events.
+- **Smart Filtering:** Filter tasks by status (All, Active, Completed) or date.
+- **Three Calendar Integrations:** Sync or export tasks across three calendar platforms.
+- **Persistent Data:** Automatically saves tasks and calendar states using browser `localStorage`.
+- **Responsive Design:** Works seamlessly across desktop, tablet, and mobile screens.
+
+## Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org) (App Router)
+- **UI & State:** React & React Hooks (`useState`, `useEffect`)
+- **Storage:** Browser `localStorage`
+- **Styling:** CSS / Tailwind CSS
 
 ## Getting Started
 
